@@ -1,0 +1,2 @@
+# short_access_AllRaceAVScarping_desktop_20min
+ネット競馬の
