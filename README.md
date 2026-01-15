@@ -2,7 +2,7 @@
 
 ## 概要
 
-このアプリケーションは、[netkeiba.com](https://db.netkeiba.com/?pid=race_search_detail) のデータベースから、指定した様々な条件に合致する競馬のレースデータをスクレイピングし、平均タイムを算出してExcelファイルに出力するデスクトップツールです。
+このアプリケーションは、[netkeiba.com](https://db.netkeiba.com/?pid=race_search_detail) のデータベース（レース詳細検索）から、指定した様々な条件に合致する競馬のレースデータをスクレイピングし、平均タイムを算出してExcelファイルに出力するデスクトップツールです。
 
 
 
