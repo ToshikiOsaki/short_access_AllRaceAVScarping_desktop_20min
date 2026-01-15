@@ -4,6 +4,8 @@
 
 このアプリケーションは、[netkeiba.com](https://db.netkeiba.com/?pid=race_search_detail) のデータベース（レース詳細検索）から、指定した様々な条件に合致する競馬のレースデータをスクレイピングし、平均タイムを算出してExcelファイルに出力するデスクトップツールです。
 
+<img width="1917" height="1013" alt="平均タイム取得アプリ画面アクセス短縮版" src="https://github.com/user-attachments/assets/ee9e92e9-6c03-4fa0-a578-48c5e1c57713" />
+（デスクトップアプリの起動画面）
 
 
 ## 特徴
